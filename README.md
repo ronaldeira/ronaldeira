@@ -22,7 +22,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **Self-custody wallet** | Self-custody Web3 wallet with BRL on/off-ramp — in development | React · EVM |
-| **AI Agency platform** | Platform for building and operating AI agents (backend, frontend and smart contracts) | Node.js · React · Solidity |
+| **AI Agency OS** | Virtual office of AI agents — 1:1 chat, multi-agent meeting rooms, scheduling and automatic meeting minutes | Node.js/TS · React · PostgreSQL · Redis |
 | **TCG/NFT game** | Collectible trading card game on Solana — **[live on devnet](https://supercardsclub.com)** | React · Solana |
 | **Career copilot** | AI career copilot (CV fit analysis, interview prep) served over MCP — **[live](https://crivojob.com)** | Node.js/TS · PostgreSQL · MCP |
 | **Links Confiáveis** | Curated directory of trusted crypto links — **[live](https://linksconfiaveis.com)** | PHP 8.3 · MySQL |
