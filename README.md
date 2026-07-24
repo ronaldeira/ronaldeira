@@ -1,6 +1,6 @@
 # Hi, I'm Ronaldo 👋
 
-**Product builder** with 15+ years in technology — 9+ in enterprise, 6+ in crypto/Web3. In 2026 I designed, shipped and now operate a portfolio of **9 products solo**, using an AI-augmented, spec-driven workflow.
+**Product builder** with 15+ years in technology — 9+ in enterprise, 6+ in crypto/Web3. In 2026 I designed and shipped **9 products solo** — **7 in operation today**, using an AI-augmented, spec-driven workflow.
 
 - 🛡️ Creator of [Aquila Guardian](https://github.com/ronaldeira/aquila-guardian) — open-source wallet duress-alert system live across 18 blockchains
 - ⛓️ Deep DeFi domain expertise: wallets, self-custody, stablecoins, on/off-ramps, tokenization
