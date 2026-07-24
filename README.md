@@ -23,12 +23,13 @@
 |---|---|---|
 | **Self-custody wallet** | Self-custody Web3 wallet with BRL on/off-ramp — in development | React · EVM |
 | **AI Agency platform** | Platform for building and operating AI agents (backend, frontend and smart contracts) | Node.js · React · Solidity |
-| **TCG/NFT game** | Collectible trading card game on Solana | React · Solana |
+| **TCG/NFT game** | Collectible trading card game on Solana — **[live on devnet](https://supercardsclub.com)** | React · Solana |
 | **AI content agent** | Agent that turns GA4 / Meta / YouTube / Trends data into ready-to-publish content for YouTube, X and Instagram | Python · FastAPI |
 | **Analytics platform** | Subscription BI/analytics on GA4 data | FastAPI · React · PostgreSQL · Redis |
-| **Links Confiáveis** | Curated directory of trusted crypto links — **live in production** | PHP 8.3 · MySQL |
-| **DCA dashboard** | Bitcoin DCA tracking: goals, contributions and comparative asset BI | Node.js · React · PostgreSQL |
-| **Signals platform** | XAU/USD trading signals bot with web dashboard | Node.js/TS · React · PostgreSQL |
+| **Career copilot** | AI career copilot (CV fit analysis, interview prep) served over MCP — **[live](https://crivojob.com)** | Node.js/TS · PostgreSQL · MCP |
+| **Links Confiáveis** | Curated directory of trusted crypto links — **[live](https://linksconfiaveis.com)** | PHP 8.3 · MySQL |
+| **DCA dashboard** | Bitcoin DCA tracking: goals, contributions and comparative asset BI — **[live](https://bca.linksconfiaveis.com.br)** | Node.js · React · PostgreSQL |
+| **Signals platform** | XAU/USD trading signals bot with web dashboard — **[live](https://ouro.linksconfiaveis.com.br)** | Node.js/TS · React · PostgreSQL |
 
 ## 🧰 Tools of the trade
 
